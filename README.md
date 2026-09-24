@@ -1,3 +1,5 @@
+> **Maintained lightly** for historical Medium/blog links. Active portfolio: [kennethteh90.github.io](https://github.com/kennethteh90/kennethteh90.github.io).
+
 # Twitter Clone App
 
 This Twitter clone app enables a user to 1) sign up for an account, 2) login, 3) create tweets with hashtags inline, 4) follow and unfollow other users, 5) view tweet feeds.
